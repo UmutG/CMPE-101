@@ -3,6 +3,6 @@
 
 All the questions shared in this repo are from CMPE 101 course at Istanbul Bilgi University.
 
-Any improvement and bug report are welcomed.
+Any improvement and bug/error report are welcomed.
 
 ***Please solve the questions by yourself first.***
