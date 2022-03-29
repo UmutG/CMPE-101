@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE101.02
-package Week14;
+package Week13;
 
 // Extend the Branch class with ARestaurant (Abstract class)
 public class Branch extends ARestaurant {
