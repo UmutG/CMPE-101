@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE 101.02
-package week9;
+package Worksheet09;
 	// Create a class called Paper and assign two parameters:
 	// Paper size  with integer value, its quality with integer value
 public class Paper {
