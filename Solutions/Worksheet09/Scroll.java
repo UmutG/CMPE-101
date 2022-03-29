@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE 101.02
-package week9;
+package Worksheet09;
 
 // Created Scroll class and inherited Paper class. Thus, I will assign 
 // scroll's size and quality without initializing default values
