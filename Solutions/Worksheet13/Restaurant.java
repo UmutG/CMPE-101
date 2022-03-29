@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE101.02
-package Week14;
+package Week13;
 
 public interface Restaurant {
 	/*
