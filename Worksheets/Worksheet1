@@ -1,0 +1,22 @@
+Part I
+Download Lecture Example-01-01 and do it again.
+Part II
+Create three different variable: integer x, integer y, double z. Convert each
+of the following mathematical formulas to a Java expression:
+• 3x + 5y
+•
+x−y
+2
+•
+2x+3y
+z+4
+Part III
+Convert the following mathematical formulas to a Java expression: Suppose:
+x is integer, y is double, and z is float. Test your expressions with different
+values.
+x
+3 + y
+2 − z
+2
+3x
+2 + z
