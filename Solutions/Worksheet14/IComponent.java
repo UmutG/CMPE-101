@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE101.02
-package Week15;
+package Week14;
 
 public interface IComponent {
 	
