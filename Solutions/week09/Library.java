@@ -1,5 +1,5 @@
 // Umut Geyik - 120200145 - CMPE 101.02
-package week9;
+package week09;
 import java.util.Random;
 public class Library {
 	
